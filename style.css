@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(23, 102, 204);
+    color: white;
+    height: 100px;
+    background-image: url(img/pattern.png);
+    background-size: contain;
+}
+
+.booleaner {
+    padding-top: 50px;
+    margin-top: 0;
+}
+
+.titolo {
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+#grigio-grande {
+    margin: 1px;
+    color: gray;
+}
+
+#link {
+    text-decoration: none;
+    color: rgb(0, 162, 255);
+}
+
+#grigio-piccolo {
+    color: gray;
+    font-size: small;
+    margin-top: 0;
+}
