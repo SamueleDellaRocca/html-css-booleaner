@@ -1,3 +1,7 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 body {
     margin: 0;
 }
@@ -35,4 +39,13 @@ header {
     color: gray;
     font-size: small;
     margin-top: 0;
+}
+
+.descrizione-foto {
+    font-size: small;
+    margin-top: 0;
+}
+
+.evidenziatore {
+    background-color: yellow;
 }
