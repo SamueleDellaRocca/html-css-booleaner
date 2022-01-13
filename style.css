@@ -49,3 +49,28 @@ header {
 .evidenziatore {
     background-color: yellow;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+
+.riga1 {
+    background-color: aqua;
+}
+
+#riga2 {
+    background-color: white;
+}
+
+.colonna {
+    width: 25%;
+}
+
+#grigio {
+    color: gray;
+}
