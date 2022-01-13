@@ -22,7 +22,7 @@ header {
     color: white;
     height: 80px;
     background-image: url(img/pattern.png);
-    background-size: contain;
+    background-size: 20%;
 }
 
 .booleaner {
