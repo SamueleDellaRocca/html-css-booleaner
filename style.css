@@ -60,6 +60,13 @@ header {
 }
 
 
+/* modifico il padding a sinistra per eliminare lo spazio dei puntini  */
+
+ul {
+    padding-inline-start: 20px;
+}
+
+
 /* modifiche alla tabella  */
 
 table {
@@ -88,4 +95,5 @@ thead {
 
 #grigio {
     color: gray;
+    margin-top: 30px;
 }
