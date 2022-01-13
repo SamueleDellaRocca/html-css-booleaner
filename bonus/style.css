@@ -1,0 +1,138 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.box {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+/* modifiche header  */
+
+header {
+    background-color: rgb(23, 102, 204);
+    color: white;
+    height: 80px;
+    background-image: url(img/pattern.png);
+    background-size: contain;
+}
+
+.booleaner {
+    padding-top: 35px;
+    padding-left: 200px;
+    margin-top: 0;
+}
+
+
+/* modifiche titolo  */
+
+.titolo {
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+#grigio-grande {
+    margin: 1px;
+    color: gray;
+}
+
+#link {
+    text-decoration: none;
+    color: rgb(0, 162, 255);
+}
+
+#grigio-piccolo {
+    color: gray;
+    font-size: small;
+    margin-top: 0;
+}
+
+
+/* descrizione foto  */
+
+.fototim1 {
+    width: 500px;
+    height: 300px;
+}
+
+.fototim2 {
+    width: 500px;
+    height: 300px;
+}
+
+.descrizione-foto {
+    font-size: small;
+    margin-top: 0;
+}
+
+.evidenziatore {
+    background-color: yellow;
+}
+
+
+/* modifico il padding a sinistra per eliminare lo spazio dei puntini  */
+
+ul {
+    padding-inline-start: 20px;
+}
+
+
+/* modifiche alla tabella  */
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+
+.riga1 {
+    background-color: aqua;
+}
+
+#riga2 {
+    background-color: white;
+}
+
+.colonna {
+    width: 25%;
+}
+
+
+/* modifiche al footer  */
+
+#grigio {
+    color: gray;
+    margin-top: 30px;
+}
+
+.foto-sfondo1 {
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 120px;
+    color: white;
+}
+
+.foto-sfondo2 {
+    background-image: url(img/graph.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 120px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.scritta-absolute {
+    padding-top: 8px;
+    padding-left: 8px;
+    font-size: large;
+}
