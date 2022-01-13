@@ -97,3 +97,26 @@ thead {
     color: gray;
     margin-top: 30px;
 }
+
+.foto-sfondo1 {
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 120px;
+    color: white;
+}
+
+.foto-sfondo2 {
+    background-image: url(img/graph.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 120px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.scritta-absolute {
+    padding-top: 8px;
+    padding-left: 8px;
+    font-size: large;
+}
