@@ -50,6 +50,16 @@ header {
 
 /* descrizione foto  */
 
+.fototim1 {
+    width: 700px;
+    height: 500px;
+}
+
+.fototim2 {
+    width: 700px;
+    height: 500px;
+}
+
 .descrizione-foto {
     font-size: small;
     margin-top: 0;
